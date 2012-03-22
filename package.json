@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "javascript-brunch": "1.0.x",
-    "coffee-script-brunch": "1.0.x",
 
     "css-brunch": "1.0.x",
     "stylus-brunch": "1.0.x",
