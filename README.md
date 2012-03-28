@@ -8,7 +8,7 @@ Main languages are JavaScript,
 ## Getting started
 
 Clone the repo and run `npm install` & `brunch build`.
-More info at [official site](http://brunch.io)
+See more info on the [official site](http://brunch.io)
 
 ## Overview
 
