@@ -20,7 +20,7 @@
     "css-brunch": "1.0.x || 1.1.x",
     "stylus-brunch": "1.0.x || 1.1.x",
 
-    "eco-brunch": "1.0.x || 1.1.x",
+    "handlebars-brunch": "1.0.x || 1.1.x",
 
     "uglify-js-brunch": "1.0.x || 1.1.x",
     "clean-css-brunch": "1.0.x || 1.1.x"
