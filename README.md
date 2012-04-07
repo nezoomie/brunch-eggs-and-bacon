@@ -3,7 +3,7 @@ This is a simple js skeleton for [Brunch](http://brunch.io/).
 
 Main languages are JavaScript,
 [Stylus](http://learnboost.github.com/stylus/) and
-[Eco](https://github.com/sstephenson/eco).
+[Handlebars](http://handlebarsjs.com/).
 
 ## Getting started
 
