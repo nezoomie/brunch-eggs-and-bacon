@@ -1,7 +1,6 @@
 exports.config =
   # Edit the next line to change default build path.
-  pathes:
-    build: 'public'
+  buildPath: 'public'
 
   files:
     javascripts:
