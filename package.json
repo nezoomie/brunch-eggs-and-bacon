@@ -16,9 +16,9 @@
   },
   "dependencies": {
     "javascript-brunch": "1.0.x || 1.1.x",
+    "sass-brunch": "1.0.x || 1.1.x",
 
     "css-brunch": "1.0.x || 1.1.x",
-    "stylus-brunch": "1.0.x || 1.1.x",
 
     "handlebars-brunch": "1.0.x || 1.1.x",
 
