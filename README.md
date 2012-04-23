@@ -1,7 +1,7 @@
 # Brunch Eggs and Bacon
 My favorite brunch, fat and tasty!
 
-[Twitter Bootstrap](http://twitter.github.com/bootstrap/) Javascript skeleton for [Brunch.io](http://brunch.io) with support for [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/) and [Handlebars](http://handlebarsjs.com/). Also include [Backbone.Mediator](https://github.com/chalbert/Backbone-Mediator) for Pub/Sub patterns.
+[Twitter Bootstrap](http://twitter.github.com/bootstrap/) Javascript skeleton for [Brunch.io](http://brunch.io) with support for [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/) and [Handlebars](http://handlebarsjs.com/). Also includes [Backbone.Mediator](https://github.com/chalbert/Backbone-Mediator) for Pub/Sub patterns.
 
 ## Getting started
 
@@ -23,5 +23,5 @@ They're in original [LESS](http://lesscss.org/) format in order to be easily cus
 
 ## Exclude Bootstrap jQuery plugins
 
-jQuery plugins used by Bootstrap are all listed (in the right order) inside the config.coffee file. Comment them with an # if you don't want to include them in the final build. (Pay attention to dependencies!)
+jQuery plugins used by Bootstrap are all listed (in the right order) inside the config.coffee file. Comment the ones you want to exclude from the build with a #. (Pay attention to dependencies!)
 
