@@ -44,9 +44,9 @@ exports.config =
     stylesheets:
       defaultExtension: 'less'
       joinTo: 'stylesheets/app.css'
-      # order:
-      #  before: ['vendor/styles/normalize.css']
-      #  after: ['vendor/styles/helpers.css']
+      order:
+       # after: ['vendor/styles/normalize.css']
+       before: ['vendor/styles/bootstrap/bootstrap.less']
 
     templates:
       defaultExtension: 'hbs'
