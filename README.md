@@ -1,5 +1,5 @@
 # Brunch Eggs and Bacon
-My favorite brunch, fat and Tasty!
+My favorite brunch, fat and tasty!
 
 [Twitter Bootstrap](http://twitter.github.com/bootstrap/) Javascript skeleton for [Brunch.io](http://brunch.io) with support for [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/) and [Handlebars](http://handlebarsjs.com/). Also include [Backbone.Mediator](https://github.com/chalbert/Backbone-Mediator) for Pub/Sub patterns.
 
