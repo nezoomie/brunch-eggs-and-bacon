@@ -19,7 +19,7 @@ All Bootstrap stylesheet files can be found separated into:
 
 		vendor/styles/bootstrap
 		
-They're in original [LESS](http://lesscss.org/) format in order to be easily customized, and compiled together with brunch's app build.
+They're in original [LESS](http://lesscss.org/) format in order to be easily customized, and compiled together with the app build.
 
 ## Exclude Bootstrap jQuery plugins
 
