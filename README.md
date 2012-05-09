@@ -9,7 +9,7 @@ Make sure to have [Brunch.io](http://brunch.io) installed.
 
 Create your project using Eggs and Bacon with:
 
-		brunch new <your-project-name> -s git@github.com:nezoomie/brunch-eggs-and-bacon.git
+		brunch new <your-project-name> -s git://github.com/nezoomie/brunch-eggs-and-bacon.git
 		
 Or simply copy the repository on your hard drive and rename it.
 
