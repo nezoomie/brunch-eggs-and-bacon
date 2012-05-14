@@ -26,7 +26,7 @@ exports.config =
           'vendor/scripts/backbone-0.9.2.js',
           'vendor/scripts/backbone-mediator.js',
 
-          # Twitter Bootstrap jquery pliugins
+          # Twitter Bootstrap jquery plugins
           'vendor/scripts/bootstrap/bootstrap-transition.js',
           'vendor/scripts/bootstrap/bootstrap-alert.js',
           'vendor/scripts/bootstrap/bootstrap-button.js',
