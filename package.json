@@ -1,4 +1,4 @@
-={
+{
   "author": "Your Name",
   "name": "package-name",
   "description": "Package description",
@@ -31,4 +31,3 @@
     "expect.js": "0.1.2"
   }
 }
-={
