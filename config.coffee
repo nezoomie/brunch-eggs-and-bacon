@@ -38,7 +38,7 @@ exports.config =
           'vendor/scripts/bootstrap/bootstrap-popover.js',
           'vendor/scripts/bootstrap/bootstrap-scrollspy.js',
           'vendor/scripts/bootstrap/bootstrap-tab.js',
-          'vendor/scripts/bootstrap/bootstrap-typeahed.js'
+          'vendor/scripts/bootstrap/bootstrap-typeahead.js'
         ]
 
     stylesheets:
